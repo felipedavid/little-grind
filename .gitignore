@@ -1,0 +1,6 @@
+bin/
+tmp/
+node_modules/
+.env
+*_templ.go*
+styles.css
