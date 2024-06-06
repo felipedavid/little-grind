@@ -26,4 +26,4 @@ watch-templ:
 	@./tmp/templ generate -watch -proxy=http://localhost:3000
 
 watch-tailwind:
-	@tailwindcss --watch -i ./views/css/app.css -o ./public/styles.css
+	@tailwindcss --watch -i ./views/css/app.css -o ./assets/styles.css
